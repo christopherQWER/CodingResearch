@@ -1,4 +1,4 @@
-# Golomb
+# Golomb Code
 Implements generating of Golomb's codes.
 
 The Golomb coding is a lossless data compression method using a family of data compression codes invented by Solomon W. Golomb.
