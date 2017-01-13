@@ -1,4 +1,4 @@
-This project represents some different ways of compress and coding information.
+This project represents some different ways of generating and coding information.
 
 There are different sources (generators) of input sequensies:
 - Geometric (with entropy h = 2.93);
