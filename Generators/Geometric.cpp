@@ -52,7 +52,6 @@ double Geometric::Gistogram(unsigned int number_experiments, std::string out_txt
         double tmp = prob / step;
         AppendToFile(out_txt, it->first, prob);
     }
-    entropy /= m.size();
     return entropy;
 }
 
